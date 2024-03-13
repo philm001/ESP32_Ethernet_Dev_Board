@@ -7143,6 +7143,25 @@
 		)
 		(uuid "fdd4d0b9-a893-453c-b048-6b32c4160ea9")
 	)
+	(text_box "Will need to check if W5100S regulator comes on if chip does not have clock source"
+		(exclude_from_sim no)
+		(at 66.04 175.26 0)
+		(size 25.4 19.05)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "3121811e-7973-46e8-a518-81238b59b831")
+	)
 	(symbol
 		(lib_id "LED_Controller_Hardware-eagle-import:SS_138")
 		(at 176.53 99.06 0)
@@ -9295,19 +9314,19 @@
 			)
 		)
 		(pin "3"
-			(uuid "dec4906e-bcc0-4572-aec3-e215108231d3")
+			(uuid "dec4906e-bcc0-4572-aec3-e215108231d4")
 		)
 		(pin "1"
-			(uuid "fe9cd307-f8f0-4081-8cd8-7cbe51d4957b")
+			(uuid "fe9cd307-f8f0-4081-8cd8-7cbe51d4957c")
 		)
 		(pin "5"
-			(uuid "cc9c88fd-a126-4d67-a112-6d6124445560")
+			(uuid "cc9c88fd-a126-4d67-a112-6d6124445561")
 		)
 		(pin "2"
-			(uuid "89c024c0-c8e0-47da-81b2-7985705f2e68")
+			(uuid "89c024c0-c8e0-47da-81b2-7985705f2e69")
 		)
 		(pin "4"
-			(uuid "3562e3be-e91a-4baa-8627-56b6684c9454")
+			(uuid "3562e3be-e91a-4baa-8627-56b6684c9455")
 		)
 		(instances
 			(project "Ethernet_Dev_Board"
